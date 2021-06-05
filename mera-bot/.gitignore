@@ -1,0 +1,13 @@
+lib/
+node_modules/
+.nyc_output/
+.vscode/
+.env 
+*.zip
+*.exe
+env.tfvars
+.nyc_output
+**/coverage
+coverage/*
+.test_output/*
+*.xml
